@@ -1,37 +1,43 @@
 # Project Title: Used Car Price Analysis and Prediction
 
-## Introduction:
+### `Introduction`
 This project analyses a dataset of 380,000 used car records from various online platforms. It aims to develop a predictive model that suggests price ranges for used cars, providing valuable insights for both buyers and sellers.
 
-## Data Preprocessing:
+### `Data Preprocessing`
 Data preprocessing involved understanding the dataset, identifying irrelevant variables, normalizing data types, and handling missing data.
 
-## Exploratory Data Analysis:
+### `Exploratory Data Analysis`
 Exploratory analysis was performed to understand factors affecting car prices, including brand, age, gearbox type, and fuel type. Key findings include a negative correlation between price and vehicle age/kilometers.
 
-## Advanced Analysis and Predictive Modeling:
+### `Advanced Analysis and Predictive Modeling`
 The project incorporates regression and classification models to analyze vehicle attributes and their relationship with price. Anomaly detection was conducted using the Isolation Forest method.
 
-## Price Range Suggestion:
+### `Price Range Suggestion`
 A price range recommender system was developed. It suggests potential price ranges based on car features, market trends, and comparable listings.
 
-## Temporal Analysis:
+### `Temporal Analysis`
 Temporal patterns in car listings were explored using time series analysis. Price fluctuations over time and seasonal trends were investigated.
 
-## Conclusion:
-This project delivers an exhaustive analysis of used car prices, providing useful insights for market participants.
-
-## Usage:
+### `Usage`
 Clone the project and run it on a system with Jupyter Notebook installed. Annotations and markdown cells within the notebook provide detailed explanations.
 
-## Libraries:
+### `Libraries`
 The project uses the following Python libraries: NumPy, Pandas, Matplotlib, Seaborn, Sklearn
 
-## License:
-Data is sourced from [this Kaggle dataset](https://www.kaggle.com/datasets/thedevastator/uncovering-factors-that-affect-used-car-prices). 
+### `Conclusion`
+This project delivers an exhaustive analysis of used car prices, providing useful insights for market participants.
 
-## Contact:
+### `Included Files`
+This repository includes the following files:
+- `UsedCarsAnalysis.ipynb`: The main Jupyter notebook containing all the analyses and models.
+- `UsedCarsAnalysis.htm`: A HTML version of the Jupyter notebook.
+- `README.md`: This README file, explaining the purpose and structure of the repository.
+
+### `License`
+Data is sourced from [this Kaggle dataset](https://www.kaggle.com/datasets/thedevastator/uncovering-factors-that-affect-used-car-prices).
+
+### `Contact`
 For any queries or comments, please reach out to levgiorg@gmail.com
 
-## Disclaimer:
+### `Disclaimer`
 This project is for portfolio purposes and may require adjustments for commercial use.
